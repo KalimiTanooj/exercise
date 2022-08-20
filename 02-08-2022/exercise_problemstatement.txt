@@ -1,0 +1,55 @@
+#1.Calculate income tax for the given income by adhering to the below rules
+""" Taxable Income    Rate (in %)
+    First $10,000     0
+    Next $10,000      10
+    The remaining     20
+    
+Expected Output:
+
+For example, suppose the taxable income is 45000 the income tax payable is
+
+10000*0% + 10000*10%  + 25000*20% - $6000. ? """
+
+#2.Count the length of list with out using any inbuilt function.?
+
+#3.Write a Python program to create a histogram from a given list of integers.?
+
+#4. Take input from user and if input is string print String
+#if input is integer/float print integer
+#if input is mix of string and integer print Error
+#HINT Can be done using ASCII code?
+
+#5.Python program to check if a string is palindrome or not?
+
+========================================================================================
+
+#problem statement
+'''#2<=n<=10
+#0<=marks[i]<=100
+#length of marks arrys=3
+#The query_name is 'beta'. beta's average score is .
+#Input Format
+#The first line contains the integer , the number of students' records. The next  lines contain the names and marks obtained by a student, each value separated by a space. The final line contains query_name, the name of a student to query.
+#Constraints
+#Output Format
+#Print one line: The average of the marks obtained by the particular student correct to 2 decimal places.
+#Sample Input 0
+#3
+#Krishna 67 68 69
+#Arjun 70 98 63
+#Malika 52 56 60
+#Malika
+#Sample Output 0
+#56.00
+#Explanation 0
+#marks for Mallika are{52,56,60} whose average is ((52+56+60)/3)=56
+#Marks for Malika are  whose average is 
+#Sample Input 1
+#2
+#Harsh 25 26.5 28
+#Anurag 26 28 30
+#Harsh
+#Sample Output 1
+#26.50
+
+'''

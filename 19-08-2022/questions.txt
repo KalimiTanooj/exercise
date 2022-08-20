@@ -1,0 +1,70 @@
+1.what is python
+2.difference between compiler and interpreter
+3.what is interpreted language
+4.what is dynamic typing
+5.how is memory managed in python
+6.what is garbage collector
+7.features of python
+8.advantages and disadvantages of python
+9.applications of python
+10.pep 8 standards
+11.identifiers
+12.keywords
+13.opereator
+14.types of operators
+15.define all operators
+16.relations
+17.membership operator
+18.types of membership
+19.idendity operators
+20.what is list
+21.what is hetrogenous data type
+22.what are methods in list
+23.what is indexing in list
+24.what is slicing
+25.what is the slicing syntax
+26.what is the differnce between append and insert
+27.what is extend methos in list
+28.methods in list
+29.difference between pop and remove
+30.what is tuple
+31.what is difference betwwen list and tuple
+32.methods in tuple
+33.what is set
+34.methods in sets
+35.add method
+36.discard functiom
+37.issubset
+38.intersection
+39.symetricdifference
+40.what is dictionary
+41.methods of dictionary
+42.setdefault
+43.values()
+44.fromkeys()
+45.items()
+46.copy()
+47.shallowcopy()
+48.deepcopy()
+49.implicit and explicit conversions
+50.type casting
+51.while loop syntax
+52.for loop syntax
+53.difference between while loop and for loop
+54.what is iteration
+55.what is indentation
+56.wap using nested for loop
+57.what is control statement
+58.what is break statement
+59.what is continue statement
+60.what is pass statement
+61.what is the syntax for list comprehension
+62.what is the syntax of set comprehension
+63.what is the syntax for dict comprehension
+64.difference between set and frozenset
+65.differeence betweeen shallow copy and deep copy
+66.difference between .py and .pyc
+67.what is string
+68.methods in string
+69.what is string format
+70.strip 
